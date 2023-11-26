@@ -1,0 +1,7 @@
+<ARS005_Radar_SC2.model>
+	<castsShadow>	false	</castsShadow>
+	<parent>	PnFMods/HLV_Mio_Ranger_Mod/ASA106_Ranger/radar/lods/ARS005_Radar_SC2_lod1	</parent>
+	<extent>	3.0000	</extent>
+	<nodefullVisual>	PnFMods/HLV_Mio_Ranger_Mod/ASA106_Ranger/radar/ARS005_Radar_SC2	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</ARS005_Radar_SC2.model>

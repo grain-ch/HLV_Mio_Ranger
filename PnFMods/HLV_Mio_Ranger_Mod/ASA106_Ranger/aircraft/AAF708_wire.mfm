@@ -1,0 +1,10 @@
+<AAF708_wire.mfm>
+	<fx>	shaders/materials/pbs/wire_material.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	diffuseMap
+		<Texture>	PnFMods/HLV_Mio_Ranger_Mod/ASA106_Ranger/aircraft/AAF708_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/HLV_Mio_Ranger_Mod/ASA106_Ranger/aircraft/AAF708_mg.dds	</Texture>
+	</property>
+</AAF708_wire.mfm>

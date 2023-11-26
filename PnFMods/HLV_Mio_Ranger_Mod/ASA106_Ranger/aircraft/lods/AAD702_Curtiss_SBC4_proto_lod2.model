@@ -1,0 +1,8 @@
+<AAD702_Curtiss_SBC4_proto_lod2.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/HLV_Mio_Ranger_Mod/ASA106_Ranger/aircraft/lods/AAD702_Curtiss_SBC4_proto_lod3	</parent>
+	<extent>	25.0000	</extent>
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	PnFMods/HLV_Mio_Ranger_Mod/ASA106_Ranger/aircraft/lods/AAD702_Curtiss_SBC4_proto_lod2	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</AAD702_Curtiss_SBC4_proto_lod2.model>

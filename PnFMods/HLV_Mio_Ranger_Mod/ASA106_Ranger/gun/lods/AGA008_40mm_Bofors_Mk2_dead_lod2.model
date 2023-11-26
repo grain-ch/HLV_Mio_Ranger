@@ -1,0 +1,7 @@
+<AGA008_40mm_Bofors_Mk2_dead_lod2.model>
+	<castsShadow>	false	</castsShadow>
+	<parent>	PnFMods/HLV_Mio_Ranger_Mod/ASA106_Ranger/gun/lods/AGA008_40mm_Bofors_Mk2_dead_lod3	</parent>
+	<extent>	20.0000	</extent>
+	<nodefullVisual>	PnFMods/HLV_Mio_Ranger_Mod/ASA106_Ranger/gun/lods/AGA008_40mm_Bofors_Mk2_dead_lod2	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</AGA008_40mm_Bofors_Mk2_dead_lod2.model>
