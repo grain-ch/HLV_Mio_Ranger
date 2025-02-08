@@ -1,7 +1,6 @@
 <AAF708_Brewster_F2A_proto.model>
-	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/HLV_Mio_Ranger_Mod/ASA106_Ranger/aircraft/lods/AAF708_Brewster_F2A_proto_lod1	</parent>
-	<extent>	2.0000	</extent>
-	<nodefullVisual>	PnFMods/HLV_Mio_Ranger_Mod/ASA106_Ranger/aircraft/AAF708_Brewster_F2A_proto	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/HLV_Mio_Ranger_Mod/ASA106_Ranger/aircraft/AAF708_Brewster_F2A_proto.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </AAF708_Brewster_F2A_proto.model>

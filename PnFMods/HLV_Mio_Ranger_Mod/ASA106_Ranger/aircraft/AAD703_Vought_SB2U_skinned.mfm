@@ -1,4 +1,5 @@
 <AAD703_Vought_SB2U_skinned.mfm>
+	<!--<fx>	shaders/materials/pbs/ship_material_skinned.fx	</fx>-->
 	<fx>	shaders/std_effects/PBS_ship_emissive_skinned.fx	</fx>
 	<collisionFlags>	0	</collisionFlags>
 	<property>	emissivePower
@@ -14,7 +15,7 @@
 		<Int>	150	</Int>
 	</property>
 	<property>	ambientOcclusionMap
-		<Texture>	PnFMods/HLV_Mio_Ranger_Mod/ASA106_Ranger/aircraft/default_ao.dds	</Texture>
+		<Texture>	PnFMods/HLV_Mio_Ranger_Mod/ASA106_Ranger/aircraft/AAD703_Vought_SB2U_ao.dds	</Texture>
 	</property>
 	<property>	detailMap
 		<Texture>	content/gameplay/common/textures/ship_atlas_detail.dds	</Texture>

@@ -1,6 +1,6 @@
 <AAF709_F4F_skinned.mfm>
+	<!--<fx>	shaders/materials/pbs/ship_material_skinned.fx	</fx>-->
 	<fx>	shaders/materials/pbs/ship_emissive_material_skinned.fx	</fx>
-	<collisionFlags>	0	</collisionFlags>
 	<property>	emissivePower
 		<Float>	2.00000	</Float>
 	</property>
@@ -13,8 +13,9 @@
 	<property>	alphaReference
 		<Int>	150	</Int>
 	</property>
+	<collisionFlags>	0	</collisionFlags>
 	<property>	ambientOcclusionMap
-		<Texture>	PnFMods/HLV_Mio_Ranger_Mod/ASA106_Ranger/aircraft/default_ao.dds	</Texture>
+		<Texture>	PnFMods/HLV_Mio_Ranger_Mod/ASA106_Ranger/aircraft/AAF709_F4F_ao.dds	</Texture>
 	</property>
 	<property>	detailMap
 		<Texture>	content/gameplay/common/textures/ship_atlas_detail.dds	</Texture>

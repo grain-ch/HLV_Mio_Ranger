@@ -1,7 +1,6 @@
 <APB005_AN_M65_GP1000lb.model>
-	<castsShadow>	false	</castsShadow>
-	<parent>	PnFMods/HLV_Mio_Ranger_Mod/ASA106_Ranger/projectile/lods/APB005_AN_M65_GP1000lb_lod1	</parent>
-	<extent>	3.0000	</extent>
-	<nodefullVisual>	PnFMods/HLV_Mio_Ranger_Mod/ASA106_Ranger/projectile/APB005_AN_M65_GP1000lb	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/HLV_Mio_Ranger_Mod/ASA106_Ranger/projectile/APB005_AN_M65_GP1000lb.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </APB005_AN_M65_GP1000lb.model>

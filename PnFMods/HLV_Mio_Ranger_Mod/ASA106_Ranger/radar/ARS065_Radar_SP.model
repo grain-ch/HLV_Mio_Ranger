@@ -1,7 +1,8 @@
 <ARS065_Radar_SP.model>
-	<castsShadow>	false	</castsShadow>
-	<parent>	PnFMods/HLV_Mio_Ranger_Mod/ASA106_Ranger/radar/lods/ARS065_Radar_SP_lod1	</parent>
-	<extent>	2.0000	</extent>
-	<nodefullVisual>	PnFMods/HLV_Mio_Ranger_Mod/ASA106_Ranger/radar/ARS065_Radar_SP	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/HLV_Mio_Ranger_Mod/ASA106_Ranger/radar/ARS065_Radar_SP.visual	</visual>
+	<animations>
+		<animation>	content/animation_state_machines/legacy/gameplay/ARS065_Radar_SP/ARS065_Radar_SP.ssm	</animation>
+	</animations>
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </ARS065_Radar_SP.model>

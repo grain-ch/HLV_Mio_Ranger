@@ -1,7 +1,0 @@
-<APT009_Avia_Bliss_Leavitt_Mk7D_lod1.model>
-	<castsShadow>	false	</castsShadow>
-	<parent>	PnFMods/HLV_Mio_Ranger_Mod/ASA106_Ranger/projectile/lods/APT009_Avia_Bliss_Leavitt_Mk7D_lod2	</parent>
-	<extent>	10.0000	</extent>
-	<nodefullVisual>	PnFMods/HLV_Mio_Ranger_Mod/ASA106_Ranger/projectile/lods/APT009_Avia_Bliss_Leavitt_Mk7D_lod1	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
-</APT009_Avia_Bliss_Leavitt_Mk7D_lod1.model>

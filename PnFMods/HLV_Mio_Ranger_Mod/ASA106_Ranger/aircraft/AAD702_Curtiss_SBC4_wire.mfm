@@ -1,10 +1,10 @@
 <AAD702_Curtiss_SBC4_wire.mfm>
+	<fx>	shaders/materials/pbs/wire_material.fx	</fx>
 	<collisionFlags>	0	</collisionFlags>
-	<fx>	shaders/std_effects/PBS_wire.fx	</fx>
-	<property>	metallicGlossMap
-		<Texture>	PnFMods/HLV_Mio_Ranger_Mod/ASA106_Ranger/aircraft/AAD702_Curtiss_SBC4_mg.dds	</Texture>
-	</property>
 	<property>	diffuseMap
 		<Texture>	PnFMods/HLV_Mio_Ranger_Mod/ASA106_Ranger/aircraft/AAD702_Curtiss_SBC4_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/HLV_Mio_Ranger_Mod/ASA106_Ranger/aircraft/AAD702_Curtiss_SBC4_mg.dds	</Texture>
 	</property>
 </AAD702_Curtiss_SBC4_wire.mfm>

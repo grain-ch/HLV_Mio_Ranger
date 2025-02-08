@@ -1,7 +1,0 @@
-<AGA055_Browning_M2_Mod2_lod2.model>
-	<castsShadow>	false	</castsShadow>
-	<parent>	PnFMods/HLV_Mio_Ranger_Mod/ASA106_Ranger/gun/lods/AGA055_Browning_M2_Mod2_lod3	</parent>
-	<extent>	10.0000	</extent>
-	<nodefullVisual>	PnFMods/HLV_Mio_Ranger_Mod/ASA106_Ranger/gun/lods/AGA055_Browning_M2_Mod2_lod2	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
-</AGA055_Browning_M2_Mod2_lod2.model>

@@ -1,10 +1,10 @@
 <AAB705_wire.mfm>
-	<collisionFlags>	0	</collisionFlags>
 	<fx>	shaders/std_effects/PBS_wire.fx	</fx>
-	<property>	metallicGlossMap
-		<Texture>	PnFMods/HLV_Mio_Ranger_Mod/ASA106_Ranger/aircraft/AAB705_mg.dds	</Texture>
-	</property>
+	<collisionFlags>	0	</collisionFlags>
 	<property>	diffuseMap
 		<Texture>	PnFMods/HLV_Mio_Ranger_Mod/ASA106_Ranger/aircraft/AAB705_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/HLV_Mio_Ranger_Mod/ASA106_Ranger/aircraft/AAB705_mg.dds	</Texture>
 	</property>
 </AAB705_wire.mfm>
